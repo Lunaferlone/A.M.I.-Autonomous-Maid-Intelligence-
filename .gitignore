@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# AI models
+*.gguf
+*.safetensors
+*.bin
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
