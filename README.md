@@ -90,9 +90,3 @@ A.M.I. is currently an experimental prototype.
 
 Features and architecture may change as development progresses. The project is intended for personal experimentation and learning.
 
-## Developer
-
-**Batara Andrian Mustafa**
-
-GitHub: [Your GitHub Profile](https://github.com/)
-
